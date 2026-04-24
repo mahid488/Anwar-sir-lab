@@ -1,0 +1,38 @@
+# Environment
+env/
+venv/
+ENV/
+.env
+*.pyc
+
+# Django
+*.sqlite3
+db.sqlite3
+staticfiles/
+media/
+/static/
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Node (if using npm)
+node_modules/
+npm-debug.log
+
+# Logs
+*.log
